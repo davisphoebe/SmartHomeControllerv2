@@ -14,7 +14,7 @@ namespace SmartHomeController
         private string deviceName;
         private bool status;
 
-        // Public properties
+        // Public properties 
         public int DeviceID
         {
             get { return deviceId; }
