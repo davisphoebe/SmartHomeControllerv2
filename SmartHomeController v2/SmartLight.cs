@@ -31,7 +31,7 @@ namespace SmartHomeController
             this.colour = colour;
         }
 
-
+         
         public void SetBrightness(double brightness)
         {
             this.Brightness = brightness;
